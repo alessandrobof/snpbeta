@@ -1,3 +1,3 @@
 # snpbeta
 
-Snpbeta is a python script to calculate "beta" and "se" statistics from snp frequency, n and z variables.  
+Snpbeta is a python script to transform z to beta in summary statistics. 
